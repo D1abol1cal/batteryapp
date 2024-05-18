@@ -1,16 +1,9 @@
-# batteryapp
+Simple flutter app that demonstrates the usage of native platform APIs to retrieve system/hardware level information such as the battery!
 
-A new Flutter project.
+![image](https://github.com/D1abol1cal/batteryapp/assets/107621921/4a567074-9246-4b53-9deb-5ee74bff8c4a)
 
-## Getting Started
+Group members:
+Syed Nofel Talha (20K-0151)
+Maarib Ul Haq Siddiqui (20K-0202)
+Arhum Hashmi (20K-1892)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
